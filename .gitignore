@@ -1,0 +1,5 @@
+# Ignore file ending in tilde
+*~
+
+# Ignore files which start with a hash
+^#*
