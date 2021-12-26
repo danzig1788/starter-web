@@ -15,3 +15,7 @@ As stated, the purpose is to provide simple examples for git training demos
 This is a simple web project, deployment can be on any web werver or even local file system
 
 ## How to contribute
+
+### Copyright
+
+Git Learning 2021
