@@ -16,6 +16,8 @@ This is a simple web project, deployment can be on any web werver or even local 
 
 ## How to contribute
 
+Please fork this repository and make a pull request
+
 ### Copyright
 
 Git Learning 2021
