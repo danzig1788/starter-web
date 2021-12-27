@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use git and github together. Adding a line for rebasing excercise
+This is a simple website project for showing how to use git and github together. Adding a line for rebasing excercise, then more changes from myfeature brnach too
 
 ## Introduction
 
